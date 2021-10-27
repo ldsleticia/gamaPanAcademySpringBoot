@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/aulas-com-spring/aulacomspring/aulacomspring.iml" filepath="$PROJECT_DIR$/aulas-com-spring/aulacomspring/aulacomspring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aulas-com-spring/demo/demo.iml" filepath="$PROJECT_DIR$/aulas-com-spring/demo/demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/projetosComSpringBoot.iml" filepath="$PROJECT_DIR$/.idea/projetosComSpringBoot.iml" />
     </modules>
   </component>
