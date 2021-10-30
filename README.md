@@ -26,5 +26,5 @@ Saiba mais em https://bancopan.corporate.gama.academy/
 
 ## Bora Codar
 <p align="center">
-	<img alt="Naruto Uzumaki chegando" src="https://github.com/ldsleticia/gamaPanAcademy/blob/main/panGamaAcademy/assets/Naruto_Uzumaki.png" />
+	<img alt="Naruto Uzumaki chegando" src="https://github.com/ldsleticia/gamaPanAcademyJavaBasico/blob/main/panGamaAcademy/assets/Naruto_Uzumaki_(Parte_I_-_HD).png" />
 </p>
