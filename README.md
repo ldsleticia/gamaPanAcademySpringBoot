@@ -17,7 +17,7 @@ Este repositório é feito para armazenar os projetos da Pan Academy. Parceria e
 Saiba mais em https://bancopan.corporate.gama.academy/
 
 ## Organização do Repositório
-:open_file_folder: [Editando:]() Editando....
+:open_file_folder: [Aulas com Spring:](https://github.com/ldsleticia/gamaPanAcademySpringBoot/tree/main/aulas-com-spring) Primeiros projetos usando Spring Boot
 
 ## Me contate
 
